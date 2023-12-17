@@ -14,8 +14,8 @@ Conteúdo HTML
 
 <b>obs: ignore o _ é apenas para o conteudo aparecer </b>
 
-"<h_1>": Título principal da página.
-"<h_2>": Subtítulo da página.
+"<h_1>": Título principal da página. <br>
+"<h_2>": Subtítulo da página. <br>
 "<p_>": Parágrafo de texto.
 "<button_>": Botão interativo que chama a função exibirMensagem() ao ser clicado.
 "<a_>": Link que chama a função timeMsg() ao ser clicado.
