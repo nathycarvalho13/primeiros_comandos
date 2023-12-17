@@ -2,11 +2,12 @@
 
 Este repositório contém o código-fonte de um programa simples em HTML e JavaScript, criado por mim, Nathália Carvalho, como parte do seu aprendizado inicial em programação. O programa apresenta uma página web básica com estilos CSS e interatividade através de scripts JavaScript.  <br>
 
-Conteúdo:
+Conteúdo:  <br>
 
 Estrutura do Projeto (dividi em partes para melhor compreenção)  <br>
 
 index.html: Página principal que contém o conteúdo HTML.  <br>
+ <br>
 Estilos CSS <br>
 
 style tag no cabeçalho do HTML: Define o estilo da página, incluindo cores de fundo e estilos de texto.
