@@ -35,7 +35,7 @@ Clique no link "Muito Obrigada" para acionar a função timeMsg().
 Considerações Finais
 Este projeto representa um ponto inicial no aprendizado de programação em JavaScript. Tem como foco treinar primeiros comandos em JS. Sua abordagem simples e interativa serve como uma introdução amigável ao desenvolvimento web. Sinta-se à vontade para explorar e expandir este código como parte do processo contínuo de aprendizado.
 
-<h2>Espero que aproveite o código e que seja útil para entender os conceitos básicos de HTML, CSS e JavaScript! Se houver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo Nathália Carvalho para uma entrevista pessoal atraves do email: nathycarvalhoflu@gmail.com ou whatsapp: (21) 97910-5604.
+<h2>Espero que aproveite o código e que seja útil para entender os conceitos básicos de HTML, CSS e JavaScript! Se houver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo Nathália Carvalho atraves do email: nathycarvalhoflu@gmail.com ou whatsapp: (21) 97910-5604.
 
 Obrigada por revisar este projeto!
 
