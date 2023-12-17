@@ -12,11 +12,11 @@ Estilos CSS
 style tag no cabeçalho do HTML: Define o estilo da página, incluindo cores de fundo e estilos de texto.
 Conteúdo HTML
 
-"<h1>": Título principal da página.
-"<h2>": Subtítulo da página.
-"<p>": Parágrafo de texto.
-"<button>": Botão interativo que chama a função exibirMensagem() ao ser clicado.
-"<a>": Link que chama a função timeMsg() ao ser clicado.
+"<h 1>": Título principal da página.
+"<h 2>": Subtítulo da página.
+"<p >": Parágrafo de texto.
+"<button >": Botão interativo que chama a função exibirMensagem() ao ser clicado.
+"<a >": Link que chama a função timeMsg() ao ser clicado.
 Scripts JavaScript
 
 Função exibirMensagem()
