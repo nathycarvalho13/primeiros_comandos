@@ -12,7 +12,7 @@ Estilos CSS
 style tag no cabeçalho do HTML: Define o estilo da página, incluindo cores de fundo e estilos de texto.
 Conteúdo HTML
 
-<b>obs: ignore o _ é apenas para o conteudo aparecer 
+<b>obs: ignore o _ é apenas para o conteudo aparecer </b>
 
 "<h_1>": Título principal da página.
 "<h_2>": Subtítulo da página.
