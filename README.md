@@ -12,11 +12,13 @@ Estilos CSS
 style tag no cabeçalho do HTML: Define o estilo da página, incluindo cores de fundo e estilos de texto.
 Conteúdo HTML
 
-"<h 1>": Título principal da página.
-"<h 2>": Subtítulo da página.
-"<p >": Parágrafo de texto.
-"<button >": Botão interativo que chama a função exibirMensagem() ao ser clicado.
-"<a >": Link que chama a função timeMsg() ao ser clicado.
+<b>obs: ignore o _ é apenas para o conteudo aparecer 
+
+"<h_1>": Título principal da página.
+"<h_2>": Subtítulo da página.
+"<p_>": Parágrafo de texto.
+"<button_>": Botão interativo que chama a função exibirMensagem() ao ser clicado.
+"<a_>": Link que chama a função timeMsg() ao ser clicado.
 Scripts JavaScript
 
 Função exibirMensagem()
@@ -35,7 +37,7 @@ Clique no link "Muito Obrigada" para acionar a função timeMsg().
 Considerações Finais
 Este projeto representa um ponto inicial no aprendizado de programação em JavaScript. Tem como foco treinar primeiros comandos em JS. Sua abordagem simples e interativa serve como uma introdução amigável ao desenvolvimento web. Sinta-se à vontade para explorar e expandir este código como parte do processo contínuo de aprendizado.
 
-<h2>Espero que aproveite o código e que seja útil para entender os conceitos básicos de HTML, CSS e JavaScript! Se houver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo Nathália Carvalho atraves do email: nathycarvalhoflu@gmail.com ou whatsapp: (21) 97910-5604.
+<h3>Espero que aproveite o código e que seja útil para entender os conceitos básicos de HTML, CSS e JavaScript! Se houver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo Nathália Carvalho atraves do email: nathycarvalhoflu@gmail.com ou whatsapp: (21) 97910-5604.
 
 Obrigada por revisar este projeto!
 
